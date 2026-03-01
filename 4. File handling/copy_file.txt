@@ -1,0 +1,7 @@
+Hello World!
+Welcome to Python programming.
+This is a file handling example.
+This line will be appended to the file.
+First line
+Second line
+Third line

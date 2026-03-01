@@ -6,6 +6,7 @@ This repository documents my structured journey of learning Python step by step.
 ## 📚 Topics Covered
 
 - Basics
+- Data types
 - Functions
 - Lambda, Map, Filter
 - Importing modules and packages 
