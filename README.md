@@ -9,7 +9,13 @@ This repository documents my structured journey of learning Python step by step.
 - Data types
 - Functions
 - Lambda, Map, Filter
-- Importing modules and packages 
+- Importing modules and packages
+- File handling
+- Exception handling
+- OOP
+  -classes and objects
+  -Inheritance
+  -Polymorphism
 - More coming soon...
 
 ## 🎯 Goal
