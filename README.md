@@ -1,9 +1,12 @@
-# 🐍 Python Learning Journey
+#  AI/ML Learning Journey
 
 Hi! I'm Aroosa Jabeen 👩‍💻  
-This repository documents my structured journey of learning Python step by step.
+This repository documents my structured journey of learning AI/ML step by step.
+Starting from Python 🐍 ...
 
 ## 📚 Topics Covered
+
+### PYTHON:
 
 - Basics
 - Data types
@@ -20,6 +23,18 @@ This repository documents my structured journey of learning Python step by step.
   - Encapsulation
   - Abstraction
   - Aggregation
+- Advanced Python
+  - Iterators
+  - Generators
+  - Decorators
+
+### DATA ANALYSIS AND VISUALIZATION:
+
+- Numpy
+- Pandas
+  - Series
+  - DataFrame
+
 - More coming soon...
 
 ## 🎯 Goal
