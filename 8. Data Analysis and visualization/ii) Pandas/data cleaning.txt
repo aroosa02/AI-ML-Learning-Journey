@@ -1,0 +1,32 @@
+Sources of data:
+1- web scraping
+2- database
+3- APIs
+4- surveys
+
+this data is raw so dirty
+
+Raw data problems:
+- missing values
+- duplicate values
+- spelling error
+- outliers (extreme values--- other than range)
+- incorrect datatypes
+- inconsistent formatting (eg. date formats)
+
+
+Data cleaning: 
+   Process of detecting, correcting and handling errors in raw data to make it suitable for analysis or modeling.
+
+1- Data collection and inspection
+  - type of data in each column (numerical, categorical, datetime, text)
+  - missing/duplicate values
+  - datatypes
+  - inconsistencies
+
+  Techniques:
+  -> summary statistics
+  -> Distribution plot
+  -> info (datatypes/ non-null count)
+  -> frequency (categorical data)
+  -> visual inspect (manually analyse)
