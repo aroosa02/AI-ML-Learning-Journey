@@ -62,3 +62,5 @@ Data cleaning:
     -> Remove outliers, using IQR, z-score
     -> Domain knowledge
     -> Transforming data
+
+Ordinal Encoding converts categorical data with a natural order (e.g., Low, Medium, High) into ordered numbers (\(0, 1, 2\)), preserving ranking. Label Encoding assigns arbitrary integers (often alphabetically) to categories without inherent order (e.g., Red=0, Blue=1), which can mistakenly imply a ranking.
